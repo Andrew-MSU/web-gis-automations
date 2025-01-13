@@ -58,6 +58,16 @@ Submit a pull request with a detailed description of your changes.
 
 See CONTRIBUTING.md for more details.
 
+License
+
+Code (Python Notebooks)
+
+This repository’s Python notebooks are licensed under the MIT License. This means you are free to use, modify, and distribute the code with proper attribution. For more details, see the LICENSE file in the root directory.
+
+Non-Code Content (Web Maps, Documentation, Metadata)
+
+The non-code content in this repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. You are free to share and adapt this material as long as you provide appropriate credit. For more details, see the LICENSE file in the respective content directories.
+
 Citation and Attribution
 
 If you use any resources from this repository in your work, please cite it as follows:
