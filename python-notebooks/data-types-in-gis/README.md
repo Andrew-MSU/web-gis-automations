@@ -1,5 +1,7 @@
 # Data Types in GIS
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14640808.svg)](https://doi.org/10.5281/zenodo.14640808)
+
 This notebook is designed to teach students about the importance and usage of data types in GIS using Python. It introduces key data types and demonstrates their application in GIS workflows.
 
 ## Notebook Contents
