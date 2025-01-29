@@ -1,6 +1,6 @@
 # Geocoding with the ArcGIS Python API
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14640808.svg)](https://doi.org/10.5281/zenodo.14640808)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14736331.svg)](https://doi.org/10.5281/zenodo.14736331)
 
 This notebook is designed to teach students about basic geocoding in Python with the ArcGIS Python API.
 
