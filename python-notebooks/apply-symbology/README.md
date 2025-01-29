@@ -1,6 +1,6 @@
 # Automated GIS Layer Styling
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14640808.svg)](https://doi.org/10.5281/zenodo.14640808)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14640807.svg)](https://doi.org/10.5281/zenodo.14640807)
 
 This repository contains an IPython notebook designed for automating the styling of GIS layers using ArcGIS Online. It demonstrates how to replicate styling from one layer in a web map to another feature layer.
 
