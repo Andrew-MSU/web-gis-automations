@@ -78,3 +78,6 @@ The notebook was tested in an ArcGIS Notebook environment but should work in any
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details (add one if needed).
 
 Feel free to contribute or report issues!
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17144986.svg)](https://doi.org/10.5281/zenodo.17144986)
+
