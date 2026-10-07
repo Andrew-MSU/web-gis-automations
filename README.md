@@ -75,7 +75,9 @@ If you use any resources from this repository in your work, please cite it as fo
 Andrew Laskowski. GIS Contributions Repository. GitHub. Available at: https://github.com/Andrew-MSU/web-gis-automations
 ```
 
-Optionally, you can cite the repository with a DOI via [Zenodo](https://zenodo.org/) (coming soon).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14640807.svg)](https://doi.org/10.5281/zenodo.14640807)
+
+The notebooks are archived on Zenodo. Concept DOI for all versions: [10.5281/zenodo.14640807](https://doi.org/10.5281/zenodo.14640807). Each notebook's README has the DOI for its own release.
 
 ---
 
